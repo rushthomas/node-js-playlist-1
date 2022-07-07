@@ -1,4 +1,4 @@
-var data = [{item:'get milk'}, {'walk dog'}, {'kick some coding ass'}];
+var data = [{item:'get milk'}, {item: 'walk dog'}, {item: 'kick some coding ass'}];
 
 module.exports = function(app){
 
